@@ -1,4 +1,4 @@
-^!u::  ; Ctrl + Alt + U to asdads dadasdadasd on sdasdsstop
+^!u:: 
 MsgBox, Toggling always on top
 WinSet, AlwaysOnTop, Toggle, A
 return
